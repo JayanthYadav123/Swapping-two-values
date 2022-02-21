@@ -31,8 +31,10 @@ b = temp
 print ("Swapped values are:",a,b)
 
 ## OUTPUT:
+
 ![Output](/IMAGES/photo.png)
 ## RESULT:
+
 Thus the swapping of two values are successfully executed.
 
 
