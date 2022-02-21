@@ -17,7 +17,9 @@ Assign the value in temporary variable to the first variable.
 Print both the values it would be interchanged.
 ### Step 6: 
 End the program.
+
 ## PROGRAM:
+~~~
 #Program to swap two values.
 #Developed by: Jayanth Yadav
 #RegisterNumber: 21005806
@@ -27,9 +29,9 @@ temp = a
 a = b
 b = temp
 print ("Swapped values are:",a,b)
+
 ## OUTPUT:
 ![Output](/IMAGES/photo.png)
-
 ## RESULT:
 Thus the swapping of two values are successfully executed.
 
